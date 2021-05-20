@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Chirajeevi
+### Hi there 👋, I'm Chiranjeevi
 
 I'm a self taught Web Developer...
 
