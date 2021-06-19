@@ -1,11 +1,8 @@
 ### Hi there 👋, I'm Chiranjeevi
 
-I'm a self taught Web Developer...
+I'm a Software Engineer and I love solving complex real-world problems & making world a better place.
 
 <!--
-**chiranjeevi-gorantla/chiranjeevi-gorantla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
