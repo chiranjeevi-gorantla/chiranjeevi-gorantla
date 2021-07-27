@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Chiranjeevi
 
-I'm a Software Engineer and I love solving complex real-world problems & making world a better place.
+Student at University of North Carolina at Charlotte, Ex SAP BODS Developer at Tata Consultancy Services
+
+I love solving complex real-world problems & making world a better place.
 
 <!--
 
